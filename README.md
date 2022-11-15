@@ -2,4 +2,4 @@
 
 Custom PDF Viewer made with pdf.js
 
-![preview image]("./docs/PDF-Viewer.png")
+![preview image](./docs/PDF-Viewer.png)
